@@ -81,12 +81,13 @@ header .btn{
 @media screen and (max-width: 768px){
   header .btn{
     font-size: 0.8rem;
-    padding: 7px;
+    padding: 0px;
     width: 150px;
     position: absolute;
-    top: 35px;
-    right: 170px;
+    top: 75%;
+    right: auto;
     z-index: 30;
+    margin-left: 10px;
   }
 }
 
